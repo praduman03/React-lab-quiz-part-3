@@ -1,0 +1,151 @@
+
+[
+    {
+           "question": "Which is the only mammal that can’t jump?",
+           "optionA": "Dog",
+           "optionB": "Elephant",
+           "optionC": "Goat",
+           "optionD": "Lion",
+           "answer": "Elephant"
+       },
+
+       {
+        "question": "Which the name of Iron man?",
+           "optionA": "Bruce",
+           "optionB": "Peter Parker",
+           "optionC": "Steve Rogers",
+           "optionD": "Tony Stark",
+           "answer": "Tony Stark"
+        
+       },
+
+       {
+        "question": "What is the capital of India?",
+           "optionA": "Mumbai",
+           "optionB": "Delhi",
+           "optionC": "New Delhi",
+           "optionD": "Kolkata",
+           "answer": "New Delhi"
+        
+       },
+
+       {
+        "question": "Who Gave '0' to world?",
+           "optionA": "Aryabhata",
+           "optionB": "Albert Einstein",
+           "optionC": "Newton",
+           "optionD": "None of the above",
+           "answer": "Aryabhata"
+        
+       },
+   
+       {
+        "question": "What is the National Bird of India?",
+           "optionA": "Peacock",
+           "optionB": "Pigeons",
+           "optionC": "Parrots",
+           "optionD": "Owl",
+           "answer": "Peacock"
+        
+       },
+    
+       {
+        "question": "Which was the first fully color film of India?",
+           "optionA": "aan",
+           "optionB": "King Harishchandra",
+           "optionC": "Alamara",
+           "optionD": "Rani of Jhansi",
+           "answer": "Rani of Jhansi"
+        
+       },
+    
+       {
+        "question": "Which Gupta king was also known as Vikramaditya?",
+           "optionA": "Samudragupta",
+           "optionB": "Kumaragupta",
+           "optionC": "Chandragupta I",
+           "optionD": "Chandragupta II",
+           "answer": "Chandragupta II"
+        
+       },
+   
+       {
+        "question": "Dandi March started on ?",
+           "optionA": "March 10, 1930",
+           "optionB": "March 12, 1930",
+           "optionC": "March 10, 1931",
+           "optionD": "March 12, 1931",
+           "answer": "March 12, 1930"
+        
+       },
+   
+    {
+        "question": "The largest part of the human brain part is?",
+           "optionA": "Cerebellum",
+           "optionB": "Midbrain",
+           "optionC": "Cerebrum",
+           "optionD": "Medulla Oblongata",
+           "answer": "Cerebrum"
+        
+       },
+   
+    {
+        "question": "The famous ruler of ancient India who adopted Jainism in the last days of his life-",
+           "optionA": "Chandragupta Maurya",
+           "optionB": "Ashok",
+           "optionC": "Samudragupta",
+           "optionD": "Bindusara",
+           "answer": "Chandragupta Maurya"
+        
+       },
+    
+    {
+        "question": " Whose name was also 'Dewan Piyadashi' Who among the following is the person?",
+           "optionA": "Ashok",
+           "optionB": "Chandragupta",
+           "optionC": "Gautam Buddha",
+           "optionD": "Mahavir",
+           "answer": "Ashok"
+        
+       },
+    {
+        "question": "Who first used the word 'Swaraj' among the following?",
+           "optionA": "Swami Dayanand Saraswati",
+           "optionB": "Raja Rammohan Roy",
+           "optionC": "Bal Gangadhar Tilak",
+           "optionD": "Bhagat Singh",
+           "answer": "Swami Dayanand Saraswati"
+        
+       },
+   
+    {
+        "question": "Who was called Peshwa in Shivaji's administration?",
+           "optionA": "Raksha Mantri",
+           "optionB": "Minister of Religious Affairs",
+           "optionC": "Chief Minister",
+           "optionD": "Justice",
+           "answer": "Chief Minister"
+        
+       },
+    
+    {
+        "question": "Which of the following is the oldest monument?",
+           "optionA": "Qutubminar",
+           "optionB": "Taj Mahal",
+           "optionC": "Ajanta Caves",
+           "optionD": "Khajuraho",
+           "answer": "Ajanta Caves"
+        
+       },
+   
+    {
+        "question": "Whose period is called the golden period of Mughal architecture?",
+           "optionA": "Akbar",
+           "optionB": "Jahangir",
+           "optionC": "Shah Jahan",
+           "optionD": "Aurangzeb",
+           "answer": "Shah Jahan"
+        
+       }
+
+   ]

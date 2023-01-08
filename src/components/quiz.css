@@ -1,0 +1,89 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(85, 0, 255);
+  
+  }
+  #quistion-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 85vh;
+    width: 85vw;
+    background-color: rgb(236, 232, 228);
+    box-shadow: 10px 10px 10px 2px;
+  }
+  #ques-head{
+    margin-top: 2rem;
+    font-size: 2rem;
+  }
+  #question-number{
+    align-self: baseline;
+    margin-left: 2rem;
+  }
+  #question{
+    font-weight: bold;
+    text-align: center;
+    font-size: 2rem;
+  }
+  .option-div {
+    height: 25vh;
+    margin-top: 1rem;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-column-gap: 2rem;
+}
+  .options{
+    height: 6vh;
+    width: 35vw;
+    background-color: rgb(0, 69, 108);
+    border-radius: 2rem;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    }
+    .options:hover{
+        background-color: green;
+    }
+
+    .butt {
+        /* height: 5vh; */
+        /* width: 8vw; */
+        border: none;
+        font-size: 1.3rem;
+        font-weight: bold;
+        padding: 0.7rem;
+        cursor:pointer;
+    }
+    .button-div {
+        margin-top: 1rem;
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 2rem;
+    }
+    #button1{
+        background-color: rgb(0, 183, 255);
+    }
+    #button2{
+        background-color: rgb(32, 135, 0);
+    }
+    #button3{
+        background-color: rgb(164, 10, 10);
+    }
+    #button4{
+      background-color: rgb(132, 143, 153);
+    }
+
+    @media screen and (max-width:800px) {
+    .button-div{
+        width: 100%;
+    }
+        
+    }
